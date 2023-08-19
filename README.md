@@ -1,25 +1,16 @@
-# Portfolio
- I’m a certified full-stack developer, who enjoys building interactive interfaces with JavaScript, React and Ruby On Rails.
-I'm also a Mentor, Project Reviewer at Microverse.
-I'm open to front-end (remote) opportunities. If you like what you see and have a project you need coded, don’t hestiate to contact me. 
 
 ## Built With
 - React
 - CSS
 - Three.js
-## Screen shot
-![image](https://user-images.githubusercontent.com/84907743/172868240-6fc6effe-1b01-4315-b267-99de1fedf364.png)
 
 
 ## Live Demo
-
-- [Netlify](https://somdotta-dev.netlify.app/)
 
 
 ## Getting Started :
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Prerequisites
 VS code editor and gitbash 
@@ -50,31 +41,14 @@ To open the project you can simply download and double click the index.html file
 ### Deployment
 Use an IDE to develop and run it into your browser.
 
-👤 Somdotta Sarkar
+👤 Bahrul Anwar
 
-- [Github](https://github.com/Somdotta07)
-- [Twitter](https://github.com/Somdotta07)
-- [LinkedIn](www.linkedin.com/in/somdottasarkar)
+- [Github](https://github.com/arul753)
+- [LinkedIn](https://www.linkedin.com/in/bahrul-anwar-644658176/)
 
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-- Microverse
-- Mixamo.com
-- EGATOR
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
 
 
 
